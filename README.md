@@ -1,2 +1,32 @@
-# restaurant
-利用vue配合vue-router写的一个酒家手机页面，有真实api数据。写了一半，还有加入购物车事件没有写
+# vue-5-16
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+
+由于我做的时候，用的是本地ip地址，所以打开的时候请配置你自己的ip地址
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
